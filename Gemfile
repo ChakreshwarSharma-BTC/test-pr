@@ -12,6 +12,7 @@ gem 'sass-rails', '~> 5.0'
 #Test again for updtae
 #New Commit for checking user
 #Test the commit
+#Test today
 gem 'client_side_validations'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
